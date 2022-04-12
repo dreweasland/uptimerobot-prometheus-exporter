@@ -5,9 +5,9 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/masaruhoshi/uptimerobot-prometheus-exporter/collector"
-	"github.com/masaruhoshi/uptimerobot-prometheus-exporter/log"
-	"github.com/masaruhoshi/uptimerobot-prometheus-exporter/version"
+	"github.com/dreweasland/uptimerobot-prometheus-exporter/collector"
+	"github.com/dreweasland/uptimerobot-prometheus-exporter/log"
+	"github.com/dreweasland/uptimerobot-prometheus-exporter/version"
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/client_golang/prometheus/promhttp"
 

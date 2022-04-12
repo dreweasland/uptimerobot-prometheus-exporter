@@ -1,5 +1,5 @@
 [[constraint]]
-  name = "github.com/masaruhoshi/uptimerobot-go.v2"
+  name = "github.com/dreweasland/uptimerobot-go.v2"
   branch = "master"
 
 [[constraint]]

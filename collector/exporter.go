@@ -3,8 +3,8 @@ package collector
 import (
 	"time"
 
-	"github.com/masaruhoshi/uptimerobot-go.v2/api"
-	"github.com/masaruhoshi/uptimerobot-prometheus-exporter/log"
+	"github.com/dreweasland/uptimerobot-go.v2/api"
+	"github.com/dreweasland/uptimerobot-prometheus-exporter/log"
 	"github.com/prometheus/client_golang/prometheus"
 )
 

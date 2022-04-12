@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/masaruhoshi/uptimerobot-prometheus-exporter/cmd"
+	"github.com/dreweasland/uptimerobot-prometheus-exporter/cmd"
 )
 
 var (
